@@ -27,6 +27,12 @@ $ forge build
 $ forge test
 ```
 
+### Test gas report
+
+```shell
+$ forge test --gas-report
+```
+
 ### Format
 
 ```shell

@@ -1,0 +1,3 @@
+[submodule "contracts/atlas-vault/lib/openzeppelin-contracts"]
+	path = contracts/atlas-vault/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
